@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "phantommod:item/phantom_plate_helmet",
+    "layer1": "minecraft:trims/items/helmet_trim_redstone"
+  }
+}

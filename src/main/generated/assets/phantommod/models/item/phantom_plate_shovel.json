@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "phantommod:item/phantom_plate_shovel"
+  }
+}

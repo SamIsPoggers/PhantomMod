@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.sam.phantommod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "GoatHornItemMixin",
+    "ItemEntityMixin",
+    "MobMixin",
+    "StuffTimer"
+  ],
+  "client": [
+    "PhantomRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

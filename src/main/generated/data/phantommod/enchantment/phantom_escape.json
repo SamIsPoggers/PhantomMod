@@ -1,0 +1,36 @@
+{
+  "anvil_cost": 7,
+  "description": {
+    "translate": "enchantment.phantommod.phantom_escape"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "attacker",
+        "effect": {
+          "type": "phantommod:phantom_escape",
+          "amount": {
+            "type": "minecraft:linear",
+            "base": 1.0,
+            "per_level_above_first": 1.0
+          }
+        },
+        "enchanted": "victim"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 1,
+    "per_level_above_first": 15
+  },
+  "max_level": 2,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "chest"
+  ],
+  "supported_items": "#phantommod:phantom_chest_ench",
+  "weight": 1
+}

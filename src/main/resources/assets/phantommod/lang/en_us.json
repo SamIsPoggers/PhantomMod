@@ -1,0 +1,20 @@
+{
+  "item.phantommod.phantom_plate": "Phantom Plate",
+  "itemgroup.phantommod.phantom_plate_items": "Phantom Plate Items",
+
+  "item.phantommod.phantom_plate_sword": "Phantom Sword",
+  "item.phantommod.phantom_plate_pickaxe": "Phantom Pickaxe",
+  "item.phantommod.phantom_plate_axe": "Phantom Axe",
+  "item.phantommod.phantom_plate_shovel": "Phantom Shovel",
+  "item.phantommod.phantom_plate_hoe": "Phantom Hoe",
+
+  "item.phantommod.phantom_plate_helmet": "Phantom Helmet",
+  "item.phantommod.phantom_plate_chestplate": "Phantom Chestplate",
+  "item.phantommod.phantom_plate_leggings": "Phantom Leggings",
+  "item.phantommod.phantom_plate_boots": "Phantom Boots",
+
+  "enchantment.phantommod.phantom_escape": "Phantom Escape",
+  "enchantment.phantommod.phantom_rider": "Phantom Rider",
+  "tag.item.phantommod.phantom_chest_ench": "Phantom Chest Enchantables",
+  "tag.item.phantommod.phantom_leg_ench": "Phantom Leg Enchantables"
+}

@@ -1,0 +1,10 @@
+// 1.21	2024-11-25T19:42:50.2712904	PhantomMod/Tags for minecraft:item
+ae313e005d898c7c92ea3d5d165e4bc1920bb14c data\minecraft\tags\item\axes.json
+2d419afb54f3b3e7e2d2fd77008e8f494d3bde67 data\minecraft\tags\item\trimmable_armor.json
+ac567aa75c60df52ec0379fe1ed1d154180256a7 data\minecraft\tags\item\shovels.json
+32e1f6d2486c0861bde02e9e82592e22eb8676f2 data\minecraft\tags\item\hoes.json
+5d498468d6d3256cb2613c70e1e366c962d905f9 data\minecraft\tags\item\swords.json
+c124a1122fccf8ec8d1f446ae069c53ae49c281e data\phantommod\tags\item\phantom_leg_ench.json
+a9e518f7c8aaecbbd1f5db418916609256d3fd60 data\phantommod\tags\item\phantom_chest_ench.json
+520f76eedba474671982e9d3dff2b8d18cfb5756 data\phantommod\tags\item\phantom_repairables.json
+53800c12dacc2a54b908ca512621ce3c98a9bbe7 data\minecraft\tags\item\pickaxes.json
